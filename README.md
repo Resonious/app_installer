@@ -1,2 +1,2 @@
 # app_installer
-RIP app to help install AppImages and tarballs
+WIP app to help install AppImages and tarballs
